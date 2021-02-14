@@ -1,5 +1,6 @@
 # GettingAndCleaningDataCourseProject
 Step 1, I install plyr package
+
 Step 2, I download data -> manually
 Step 3, I save the datasets from the zip
 Step 4, I use descriptive activity names to name the activities in the data set
